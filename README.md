@@ -2,13 +2,17 @@
  <img src ="./banner.jpg" />
 </div>
 
-Here are some ideas to get you started:
+<br><br>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="Mehuna" /> </p>
+
+- 🔭 I'm Interested in **astro and code.**
+
+- 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
+
+- ❤️</> 🧑‍💻 **Critical Thinking** 🧠 🎶
+
+- 📫 How to reach me **nikhilkumarkolli@gmail.com**
