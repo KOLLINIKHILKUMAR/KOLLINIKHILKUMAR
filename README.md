@@ -5,7 +5,7 @@
 <br><br>
 <br><br>
 
-<img align="right" alt="Coding" style="margin-right:20px;" width="300" src="./giff.gif" >
+<img align="right" alt="Coding" width="300" src="./giff.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kollinikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Mehuna" /> </p>
 
