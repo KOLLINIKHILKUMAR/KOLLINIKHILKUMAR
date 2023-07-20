@@ -1,9 +1,6 @@
 <div align="center">
- <img src ="./images/gif gif.jpg" />
-  
+ <img src ="./banner.jpg" />
 </div>
-
-**KOLLINIKHILKUMAR/KOLLINIKHILKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
